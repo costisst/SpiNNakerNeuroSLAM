@@ -1,1 +1,1 @@
-# NeuroSLAM_SpiNNaker
+The current code is not updated
